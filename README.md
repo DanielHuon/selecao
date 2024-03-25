@@ -7,6 +7,6 @@ Este é um pequeno projeto frontend para a seleção. Uma tentativa de replicar 
 
 Para executar basta clonar este repositório e instalar as dependências com "npm install". Após isso será necessário iniciar um servidor, podendo utilizar "npm start" ou "npm run dev", assim o projeto poderá ser visto através do seu navegador utilizando o endereço "http://localhost:3000".
 
-# Disclaimer
+# Considerações
 
 Essa foi a minha primeira vez trabalhando num projeto que envolva React e Nextjs, meus conhecimentos eram limitados ao básico de js, tive um pouco de dificuldade para entender algumas coisas do Kendo. Creio que se tivesse mais tempo para estudar seria possível desenvolver filtros em grids de alguma forma inteligente.

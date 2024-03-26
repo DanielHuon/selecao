@@ -5,7 +5,7 @@ Este é um pequeno projeto frontend para a seleção. Uma tentativa de replicar 
 
 # Executando
 
-Para executar basta clonar este repositório e instalar as dependências com "npm install". Após isso será necessário iniciar um servidor, podendo utilizar "npm start" ou "npm run dev", assim o projeto poderá ser visto através do seu navegador utilizando o endereço "http://localhost:3000".
+Para executar basta clonar este repositório, ter o ambiente Node.js preparado, instalar as dependências com "npm install". Após isso será necessário iniciar um servidor, podendo utilizar "npm start" ou "npm run dev", assim o projeto poderá ser visto através do seu navegador utilizando o endereço "http://localhost:3000".
 
 # Considerações
 
